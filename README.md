@@ -17,6 +17,7 @@ This project leverages the Airbnb Listing and Review Dataset, which contains dat
 ### Dataset Files:
 listings.csv – Contains detailed information about Airbnb properties, including host details, location, pricing, availability, and room types.
 reviews.csv – Includes over 5 million guest reviews, covering feedback, review dates, and reviewer details.
+
 Dataset Source – [Airbnb Listings & Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data) 
 
 ## Key Insights from Airbnb Market Trends & Regulation Impact
