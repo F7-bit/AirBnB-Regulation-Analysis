@@ -4,7 +4,7 @@ An analytical study on the impact of regulations on Airbnb listings, pricing, an
 
 ## Project 
 
-[Project Code](https://www.kaggle.com/code/fahed7/airbnb-project)
+**[Project Code](https://www.kaggle.com/code/fahed7/airbnb-project)**
 
 <img src="https://attorney-counsel.com/wp-content/uploads/2018/11/Airbnb-Paris-1.jpg" width=900>
 
@@ -20,34 +20,34 @@ reviews.csv – Includes over 5 million guest reviews, covering feedback, review
 Dataset Source – [Airbnb Listings & Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data) 
 
 ## Key Insights from Airbnb Market Trends & Regulation Impact
-1.Airbnb’s Growth Follows a Predictable Cycle
+**1.Airbnb’s Growth Follows a Predictable Cycle**
 - Early phase: Listings and prices increase due to demand from early adopters.
 - Mature phase: Listings increase further, but prices drop due to higher competition.
 - Regulation phase: Listings decrease, and prices rise due to market uncertainty.
 - Post-regulation stability: Listings increase again, and prices decrease as the market adapts.
-- 
-2. Regulations Cause Short-Term Disruptions But Not Long-Term Decline
+
+**2. Regulations Cause Short-Term Disruptions But Not Long-Term Decline**
 - When regulations were introduced in 2015, the number of listings declined, showing host uncertainty.
 - However, by 2019, listings grew again, indicating that the market eventually adjusted to new policies.
 
-3.Market Confidence Affects Supply & Pricing Trends
+**3.Market Confidence Affects Supply & Pricing Trends**
 - Regulations initially led to less supply and higher prices, but once the market adapted, listings increased and prices fell again due to competition.
 
-4.Regulations Shape Host Behavior
+**4.Regulations Shape Host Behavior**
 - Hosts initially hesitated post-regulation, but many returned once they understood the new rules.
 - Over time, regulations led to a more stable and predictable market, preventing extreme price fluctuations.
 
-5.Airbnb’s Long-Term Sustainability Depends on Market Adaptability
+**5.Airbnb’s Long-Term Sustainability Depends on Market Adaptability**
 - Despite short-term setbacks, demand for short-term rentals remains strong.
 - Airbnb’s ability to recover and stabilize post-regulation highlights its resilience as a business model.
 
 ## Recommendations for Airbnb in Regulated Markets
-1.Anticipate and Monitor Regulations – Track global policy changes to prepare in advance and minimize business disruptions.
+**1.Anticipate and Monitor Regulations** – Track global policy changes to prepare in advance and minimize business disruptions.
 
-2.Mitigate Host & Customer Churn – Provide clear compliance support to hosts and maintain a seamless customer experience.
+**2.Mitigate Host & Customer Churn** – Provide clear compliance support to hosts and maintain a seamless customer experience.
 
-3.Protect Brand Reputation – Ensure regulations do not negatively impact guest satisfaction by upholding service quality.
+**3.Protect Brand Reputation** – Ensure regulations do not negatively impact guest satisfaction by upholding service quality.
 
-4.Self-Regulate Listings – Implement stricter onboarding rules and limit Airbnb density to prevent excessive government intervention.
+**4.Self-Regulate Listings** – Implement stricter onboarding rules and limit Airbnb density to prevent excessive government intervention.
 
-5.Collaborate with Authorities – Work with policymakers to shape fair regulations that balance business growth and community needs.
+**5.Collaborate with Authorities** – Work with policymakers to shape fair regulations that balance business growth and community needs.
